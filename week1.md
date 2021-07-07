@@ -1,0 +1,9 @@
+- Tuesday
+  - What is the shape of the images training set (how many and the dimension of each)?
+    - 60k images, 28x28 pixels each 
+  - What is the length of the labels training set?
+    - 10
+  - What is the shape of the images test set?
+    - 10k images, 28x28 pixels each
+- Wednesday
+- Thursday
