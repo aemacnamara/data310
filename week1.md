@@ -24,3 +24,4 @@
   - Evaluate how your model for the MNIST dataset compared with your model of the Fashion_MNIST dataset. Which of the two models is more accurate? Why do you think this is so?
     - The MNIST dataset is more accurate as 98% accuracy. This is because numbers are 2D, while clothing is 3D, so a number is more easily translated into pixels.
 - Thursday
+  - Worked with Maggie and Michael on the problem set [here](https://mkettelberger.github.io/data310/thurs1.html)
