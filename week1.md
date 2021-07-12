@@ -1,3 +1,5 @@
+## Week 1
+
 - Tuesday
   - What is the shape of the images training set (how many and the dimension of each)?
     - 60k images, 28x28 pixels each 

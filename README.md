@@ -8,7 +8,7 @@
     - Week 4
     
 - Projects
-    - Project 1
+    - [Project 1](project1.md)
     - Project 2
     - Project 3
     - Project 4
